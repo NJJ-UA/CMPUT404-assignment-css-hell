@@ -1,0 +1,54 @@
+body {
+    background-color: LightGoldenRodYellow;
+    font-size: 150%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-weight: bold;
+
+}
+
+hr {
+
+    border-top: double;
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+    color: red;
+}
+
+a:visited {
+    text-decoration: none;
+    color: purple;
+
+}
+
+a:hover {
+    text-decoration: none;
+    color: hotpink;
+
+}
+
+a:active {
+    text-decoration: none;
+    color: blue;
+
+}
+
+img{
+    margin: 4% 4% 4% 4%;
+}
