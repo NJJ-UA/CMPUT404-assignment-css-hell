@@ -21,4 +21,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Contributor:
 
+Jingjiao Ni
+
+The Logo was generated automaticly by the website markmaker
+(https://emblemmatic.org/markmaker/)
+
+For the three html files in part 1(the project gutenberg HTML files),
+I just add link to the style.css.

@@ -1,0 +1,67 @@
+div.menu{
+    float: left;
+    position: fixed;
+    width: 40%;
+    font-size:400%;
+    background-color:orange;
+}
+
+div.header_text{
+	 overflow: auto;
+    position: relative;
+    width: 45%;
+
+    color: linear-gradient(to right, blue, white)
+
+}
+
+div.logo{
+	 float: left;
+	 width: 20%;
+    margin-left: 10%;
+}
+
+div.content{
+    overflow: auto;
+    position: relative;
+    margin-left: 30%;
+    width: 70%;
+    background-color:white;
+  
+}
+body{
+   
+    font-family: Copperplate,Copperplate Gothic Light,fantasy;
+}
+
+a.menulink{
+    color: green;
+
+}
+
+
+div.header{
+    position: fixed;
+    background-color: blue;
+    width: 100%;
+    height: 20%;
+
+    top: 0em;
+
+    z-index: 9999;
+}
+
+div.paragraph{
+
+
+}
+h1,h2,h3,h4,h5,h6{
+
+    color:pink;
+}
+
+div.image{
+    float:right;
+    margin:5em 0em 2em 2em;
+
+}
